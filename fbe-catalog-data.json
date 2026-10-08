@@ -1,0 +1,1774 @@
+{
+  "meta": {
+    "schema": "fbe_catalog_data",
+    "source_url": "https://raw.githubusercontent.com/fenbil/fbe-data/main/fbe-catalog-data.json",
+    "updated_at": "2026-09-30",
+    "version": "2.2.1",
+    "last_updated": "2026-09-30"
+  },
+  "persons": [
+    {
+      "id": "a_abuzer_kadir_ozsunar",
+      "title": "Prof. Dr.",
+      "first_name": "Abuzer Kadir",
+      "last_name": "ÖZSUNAR",
+      "avesis": "https://avesis.gazi.edu.tr/ozsunar",
+      "photo": "https://avesis.gazi.edu.tr/user/image/10038",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_arap_duran_turkoglu",
+      "title": "Prof. Dr.",
+      "first_name": "Arap Duran",
+      "last_name": "TÜRKOĞLU",
+      "avesis": "https://avesis.gazi.edu.tr/dturkoglu",
+      "photo": "https://avesis.gazi.edu.tr/user/image/10192",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_ayhan_erdem",
+      "title": "Prof. Dr.",
+      "first_name": "Ayhan",
+      "last_name": "ERDEM",
+      "avesis": "https://avesis.gazi.edu.tr/ayerdem",
+      "photo": "https://avesis.gazi.edu.tr/user/image/12792",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_aysel_caglan_gunal",
+      "title": "Prof. Dr.",
+      "first_name": "Aysel Çağlan",
+      "last_name": "GÜNAL",
+      "avesis": "https://avesis.gazi.edu.tr/caglangunal",
+      "photo": "https://avesis.gazi.edu.tr/user/image/10321",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_berat_cinar_acar",
+      "title": "Doç. Dr.",
+      "first_name": "Berat",
+      "last_name": "ÇINAR ACAR",
+      "avesis": "https://avesis.gazi.edu.tr/beratcinar",
+      "photo": "https://avesis.gazi.edu.tr/user/image/100243",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_bulent_bostan",
+      "title": "Prof. Dr.",
+      "first_name": "Bülent",
+      "last_name": "BOSTAN",
+      "avesis": "https://avesis.gazi.edu.tr/bostan",
+      "photo": "https://avesis.gazi.edu.tr/user/image/10624",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_dilek_akbulut",
+      "title": "Prof. Dr.",
+      "first_name": "Dilek",
+      "last_name": "AKBULUT",
+      "avesis": "https://avesis.gazi.edu.tr/dilekakbulut",
+      "photo": "https://avesis.gazi.edu.tr/user/image/10852",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_ebru_vesile_ocalir",
+      "title": "Prof. Dr.",
+      "first_name": "Ebru Vesile",
+      "last_name": "ÖCALIR",
+      "avesis": "https://avesis.gazi.edu.tr/ebruocalir",
+      "photo": "https://avesis.gazi.edu.tr/user/image/10920",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_erdal_irmak",
+      "title": "Prof. Dr.",
+      "first_name": "Erdal",
+      "last_name": "IRMAK",
+      "avesis": "https://avesis.gazi.edu.tr/erdal",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11102",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_firat_hardalac",
+      "title": "Prof. Dr.",
+      "first_name": "Fırat",
+      "last_name": "HARDALAÇ",
+      "avesis": "https://avesis.gazi.edu.tr/firat",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11346",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_gul_didem_batur_sir",
+      "title": "Prof. Dr.",
+      "first_name": "Gül Didem",
+      "last_name": "BATUR SİR",
+      "avesis": "https://avesis.gazi.edu.tr/dbatur",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11485",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_gultekin_uzun",
+      "title": "Prof. Dr.",
+      "first_name": "Gültekin",
+      "last_name": "UZUN",
+      "avesis": "https://avesis.gazi.edu.tr/uzun.gultekin",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11532",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_hacer_karacan",
+      "title": "Prof. Dr.",
+      "first_name": "Hacer",
+      "last_name": "KARACAN",
+      "avesis": "https://avesis.gazi.edu.tr/hkaracan",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11556",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_hakan_dilipak",
+      "title": "Prof. Dr.",
+      "first_name": "Hakan",
+      "last_name": "DİLİPAK",
+      "avesis": "https://avesis.gazi.edu.tr/hdilipak",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11578",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_halit_arslan",
+      "title": "Prof. Dr.",
+      "first_name": "Halit",
+      "last_name": "ARSLAN",
+      "avesis": "https://avesis.gazi.edu.tr/halit",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11617",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_hamit_solmaz",
+      "title": "Prof. Dr.",
+      "first_name": "Hamit",
+      "last_name": "SOLMAZ",
+      "avesis": "https://avesis.gazi.edu.tr/hsolmaz",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11630",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_hamza_cinar",
+      "title": "Prof. Dr.",
+      "first_name": "Hamza",
+      "last_name": "ÇINAR",
+      "avesis": "https://avesis.gazi.edu.tr/hamzacinar",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11632",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_ismail_sahin",
+      "title": "Prof. Dr.",
+      "first_name": "İsmail",
+      "last_name": "ŞAHİN",
+      "avesis": "https://avesis.gazi.edu.tr/isahin",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11925",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_kerem_tastan",
+      "title": "Prof. Dr.",
+      "first_name": "Kerem",
+      "last_name": "TAŞTAN",
+      "avesis": "https://avesis.gazi.edu.tr/ktastan",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11978",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_kursat_yildiz",
+      "title": "Doç. Dr.",
+      "first_name": "Kürşat",
+      "last_name": "YILDIZ",
+      "avesis": "https://avesis.gazi.edu.tr/kursaty",
+      "photo": "https://avesis.gazi.edu.tr/user/image/12016",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_mehmet_akif_bakir",
+      "title": "Prof. Dr.",
+      "first_name": "Mehmet Akif",
+      "last_name": "BAKIR",
+      "avesis": "https://avesis.gazi.edu.tr/mabakir",
+      "photo": "https://avesis.gazi.edu.tr/user/image/12125",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_murat_bilen",
+      "title": "Prof. Dr.",
+      "first_name": "Murat",
+      "last_name": "BİLEN",
+      "avesis": "https://avesis.gazi.edu.tr/muratbilen",
+      "photo": "https://avesis.gazi.edu.tr/user/image/100413",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_murat_dener",
+      "title": "Prof. Dr.",
+      "first_name": "Murat",
+      "last_name": "DENER",
+      "avesis": "https://avesis.gazi.edu.tr/muratdener",
+      "photo": "https://avesis.gazi.edu.tr/user/image/12397",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_nihat_ozturk",
+      "title": "Prof. Dr.",
+      "first_name": "Nihat",
+      "last_name": "ÖZTÜRK",
+      "avesis": "https://avesis.gazi.edu.tr/ozturk",
+      "photo": "https://avesis.gazi.edu.tr/user/image/12641",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_orhan_kaplan",
+      "title": "Prof. Dr.",
+      "first_name": "Orhan",
+      "last_name": "KAPLAN",
+      "avesis": "https://avesis.gazi.edu.tr/okaplan",
+      "photo": "https://avesis.gazi.edu.tr/user/image/12774",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_salih_yazicioglu",
+      "title": "Prof. Dr.",
+      "first_name": "Salih",
+      "last_name": "YAZICIOĞLU",
+      "avesis": "https://avesis.gazi.edu.tr/syazicioglu",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13026",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_sedat_surdem",
+      "title": "Doç. Dr.",
+      "first_name": "Sedat",
+      "last_name": "SÜRDEM",
+      "avesis": "https://avesis.gazi.edu.tr/sedatsurdem",
+      "photo": "https://avesis.gazi.edu.tr/user/image/100281",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_sema_bilge_ocak",
+      "title": "Prof. Dr.",
+      "first_name": "Sema Bilge",
+      "last_name": "OCAK",
+      "avesis": "https://avesis.gazi.edu.tr/sbocak",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13120",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_suleyman_ozcelik",
+      "title": "Prof. Dr.",
+      "first_name": "Süleyman",
+      "last_name": "ÖZÇELİK",
+      "avesis": "https://avesis.gazi.edu.tr/sozcelik",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13312",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_sule_coskun_cevher",
+      "title": "Prof. Dr.",
+      "first_name": "Şule",
+      "last_name": "COŞKUN CEVHER",
+      "avesis": "https://avesis.gazi.edu.tr/sule",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13385",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_tarik_asar",
+      "title": "Prof. Dr.",
+      "first_name": "Tarık",
+      "last_name": "ASAR",
+      "avesis": "https://avesis.gazi.edu.tr/asar",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13411",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_tayfun_menlik",
+      "title": "Prof. Dr.",
+      "first_name": "Tayfun",
+      "last_name": "MENLİK",
+      "avesis": "https://avesis.gazi.edu.tr/tmenlik",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13417",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "i_asli_gultekin",
+      "first_name": "Aslı",
+      "last_name": "GÜLTEKİN",
+      "phone": "0 (312) 202 37 39",
+      "email": "asli.gultekin@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_baris_cem_onal",
+      "first_name": "Barış Cem",
+      "last_name": "ÖNAL",
+      "phone": "0 (312) 202 37 20",
+      "email": "bariscem.onal@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_derya_yucel",
+      "first_name": "Derya",
+      "last_name": "YÜCEL",
+      "phone": "0 (312) 202 37 22",
+      "email": "derya.yucel2@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_didem_balaban",
+      "first_name": "Didem",
+      "last_name": "BALABAN",
+      "phone": "0 (312) 202 37 28",
+      "email": "didem.balaban@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_dogan_kara",
+      "first_name": "Doğan",
+      "last_name": "KARA",
+      "phone": "0 (312) 202 37 19",
+      "email": "dogan.kara@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_duygu_yurekli",
+      "first_name": "Duygu",
+      "last_name": "YÜREKLİ",
+      "phone": "0 (312) 202 37 32",
+      "email": "duygu.aktas@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_emine_kocamemik",
+      "first_name": "Emine",
+      "last_name": "KOCAMEMİK",
+      "phone": "0 (312) 202 37 08",
+      "email": "emine.tutuncu@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_esen_aydin",
+      "first_name": "Esen",
+      "last_name": "AYDIN",
+      "phone": "0 (312) 582 32 32",
+      "email": "esenaydin@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_esengul_bosnak",
+      "first_name": "Esengül",
+      "last_name": "BOŞNAK",
+      "phone": "0 (312) 202 37 18",
+      "email": "esengul.turkoglu@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_fatma_arslan",
+      "first_name": "Fatma",
+      "last_name": "ARSLAN",
+      "phone": "0 (312) 582 31 34",
+      "email": "farslan@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_figen_asal",
+      "first_name": "Figen",
+      "last_name": "ASAL",
+      "phone": "0 (312) 202 37 09",
+      "email": "figen.isa@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_gulsah_dogan",
+      "first_name": "Gülşah",
+      "last_name": "DOĞAN",
+      "phone": "0 (312) 582 35 32",
+      "email": "gulsahdogan@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_gulsah_yilmaz",
+      "first_name": "Gülşah",
+      "last_name": "YILMAZ",
+      "phone": "0 (312) 582 38 10",
+      "email": "gulsah.yilmaz@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_murat_sahin",
+      "first_name": "Murat",
+      "last_name": "ŞAHİN",
+      "phone": "0 (312) 582 36 04",
+      "email": "msahin@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_nurgul_kose",
+      "first_name": "Nurgül",
+      "last_name": "KÖSE",
+      "phone": "0 (312) 582 33 50",
+      "email": "nurgulkose@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_nursel_kucuk",
+      "first_name": "Nursel",
+      "last_name": "KÜÇÜK",
+      "phone": "0 (312) 582 38 31",
+      "email": "nurselkucuk@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_ozcan_eryilmaz",
+      "first_name": "Özcan",
+      "last_name": "ERYILMAZ",
+      "phone": "0 (312) 202 87 50",
+      "email": "metalurjimalzeme@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_sevgi_erturk",
+      "first_name": "Sevgi",
+      "last_name": "ERTÜRK",
+      "phone": "0 (312) 202 10 51",
+      "email": "fenmatematik@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_songul_ozturk",
+      "first_name": "Songül",
+      "last_name": "ÖZTÜRK",
+      "phone": "0 (312) 582 34 32",
+      "email": "sozturk@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_serife_omur",
+      "first_name": "Şerife",
+      "last_name": "ÖMÜR",
+      "phone": "0 (312) 582 37 04",
+      "email": "simir@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_yildiz_koyuncu",
+      "first_name": "Yıldız",
+      "last_name": "KOYUNCU",
+      "phone": "0312 202 3730",
+      "email": "yildiz.koyuncu@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_zulfinaz_yuksel_boga",
+      "first_name": "Zülfinaz",
+      "last_name": "YÜKSEL BOĞA",
+      "phone": "0 (312) 202 37 16",
+      "email": "zulfinaz.yuksel@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "a_ihsan_kanbaz",
+      "title": "Dr. Öğr. Üyesi",
+      "first_name": "İhsan",
+      "last_name": "KANBAZ",
+      "avesis": "https://avesis.gazi.edu.tr/ihsankanbaz",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11849",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_suleyman_tekeli",
+      "title": "Prof. Dr.",
+      "first_name": "Süleyman",
+      "last_name": "TEKELİ",
+      "avesis": "https://avesis.gazi.edu.tr/stekeli",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13314",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_talip_kellegoz",
+      "title": "Prof. Dr.",
+      "first_name": "Talip",
+      "last_name": "KELLEGÖZ",
+      "avesis": "https://avesis.gazi.edu.tr/tkellegoz",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13403",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_selcuk_kursat_isleyen",
+      "title": "Prof. Dr.",
+      "first_name": "Selçuk Kürşat",
+      "last_name": "İŞLEYEN",
+      "avesis": "https://avesis.gazi.edu.tr/isleyens",
+      "photo": "https://avesis.gazi.edu.tr/user/image/13097",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_idil_aycam",
+      "title": "Prof. Dr.",
+      "first_name": "İdil",
+      "last_name": "AYÇAM",
+      "avesis": "https://avesis.gazi.edu.tr/iaycam",
+      "photo": "https://avesis.gazi.edu.tr/user/image/11843",
+      "gender": "f",
+      "person_type": "academic"
+    },
+    {
+      "id": "a_adem_acir",
+      "title": "Prof. Dr.",
+      "first_name": "Adem",
+      "last_name": "ACIR",
+      "avesis": "https://avesis.gazi.edu.tr/adema",
+      "photo": "https://avesis.gazi.edu.tr/user/image/10041",
+      "gender": "m",
+      "person_type": "academic"
+    },
+    {
+      "id": "i_hulya_yahsi",
+      "title": "",
+      "first_name": "Hülya",
+      "last_name": "YAHŞİ",
+      "phone": "0 (312) 202 37 01",
+      "email": "fenbil@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative"
+    },
+    {
+      "id": "i_kudret_ekici",
+      "title": "Memur",
+      "first_name": "Kudret",
+      "last_name": "EKİCİ",
+      "phone": "",
+      "email": "kudret.ekici@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative",
+      "unit": "YÖK ve Tez İşlemleri",
+      "responsibilities": [
+        "YÖK - Tez Yüklemeleri",
+        "YÖKSİS Eski Mezun İşlemleri",
+        "Kısıtlı Tezler - CD Kontrol"
+      ]
+    },
+    {
+      "id": "i_gokce_cihan_cetinkaya",
+      "title": "Programcı",
+      "first_name": "Gökçe Cihan",
+      "last_name": "ÇETİNKAYA",
+      "phone": "",
+      "email": "gokcecihan.cetinkaya@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative",
+      "honorific": "Cihan Bey",
+      "unit": "Bilişim ve Yazılım Geliştirme",
+      "responsibilities": [
+        "Enstitü Web Sitesi",
+        "Sosyal Medya",
+        "Yapay Zeka - Yazılım Geliştirme"
+      ]
+    },
+    {
+      "id": "i_seyda_gulizar_karayel",
+      "title": "V.H.K.İ.",
+      "first_name": "Şeyda Gülizar",
+      "last_name": "KARAYEL",
+      "phone": "0 (312) 202 37 27",
+      "email": "seyda.karayel@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative",
+      "unit": "Yönetim Kurulu Yazışmaları",
+      "responsibilities": [
+        "Yönetim Kurulu Yazışmaları"
+      ]
+    },
+    {
+      "id": "i_zeyno_gazioglu",
+      "title": "Bilgisayar İşletmeni",
+      "first_name": "Zeyno",
+      "last_name": "GAZİOĞLU",
+      "phone": "0 (312) 202 37 33",
+      "email": "zeyno.gazioglu@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative",
+      "unit": "Yönetim Kurulu Yazışmaları",
+      "responsibilities": [
+        "Yönetim Kurulu Yazışmaları"
+      ]
+    },
+    {
+      "id": "i_erkan_yazir",
+      "title": "Bilgisayar İşletmeni",
+      "first_name": "Erkan",
+      "last_name": "YAZIR",
+      "phone": "0 (312) 202 37 24",
+      "email": "erkan.yazir@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative",
+      "unit": "Satın Alma ve Haberleşme",
+      "responsibilities": [
+        "Satın Alma ve Haberleşme"
+      ]
+    },
+    {
+      "id": "i_adem_ozen",
+      "title": "Bilgisayar İşletmeni",
+      "first_name": "Adem",
+      "last_name": "ÖZEN",
+      "phone": "0 (312) 202 37 37",
+      "email": "adem.ozen@gazi.edu.tr",
+      "gender": "m",
+      "person_type": "administrative",
+      "unit": "Satın Alma ve Haberleşme",
+      "responsibilities": [
+        "Satın Alma ve Haberleşme"
+      ]
+    },
+    {
+      "id": "i_kezban_alkul",
+      "title": "Şef",
+      "first_name": "Kezban",
+      "last_name": "ALKUL",
+      "phone": "0 (312) 202 37 14",
+      "email": "kezban.pekasil@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative",
+      "unit": "Personel Hizmetleri ve Muhasebe",
+      "responsibilities": [
+        "Personel Hizmetleri ve Muhasebe"
+      ]
+    },
+    {
+      "id": "i_nursen_zengin",
+      "title": "Şef",
+      "first_name": "Nurşen",
+      "last_name": "ZENGİN",
+      "phone": "0 (312) 202 37 12",
+      "email": "nursen.zengin@gazi.edu.tr",
+      "gender": "f",
+      "person_type": "administrative",
+      "unit": "Personel Hizmetleri ve Muhasebe",
+      "responsibilities": [
+        "Personel Hizmetleri ve Muhasebe"
+      ]
+    }
+  ],
+  "departments": [
+    {
+      "id": "AEM",
+      "head_id": "a_hamza_cinar",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_asli_gultekin",
+      "name": "Ağaç İşleri Endüstri Mühendisliği",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Ağaç İşleri Endüstri Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "ASB",
+      "head_id": "a_erdal_irmak",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_esengul_bosnak",
+      "name": "Akıllı Şebekeler",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Akıllı Şebekeler",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Akıllı Şebekeler",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Akıllı Şebekeler",
+          "type": "dr",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "ATM",
+      "head_id": "a_gultekin_uzun",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_zulfinaz_yuksel_boga",
+      "name": "Ayakkabı Teknolojisi Mühendisliği",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Ayakkabı Teknolojisi Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "BGM",
+      "head_id": "a_murat_dener",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_baris_cem_onal",
+      "name": "Bilgi Güvenliği Mühendisliği",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Bilgi Güvenliği Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Bilgi Güvenliği Mühendisliği",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "BMM",
+      "head_id": "a_hacer_karacan",
+      "sec_id": "i_fatma_arslan",
+      "stu_id": "i_duygu_yurekli",
+      "name": "Bilgisayar Mühendisliği (Müh. Fak.)",
+      "faculty": "Mühendislik Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Büyük Veri Analitiği, Güvenliği ve Mahremiyeti",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün",
+          "code": "BDA"
+        }
+      ]
+    },
+    {
+      "id": "BMT",
+      "head_id": "a_ayhan_erdem",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_dogan_kara",
+      "name": "Bilgisayar Mühendisliği (Tek. Fak.)",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Bilgisayar Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "BİY",
+      "head_id": "a_sule_coskun_cevher",
+      "sec_id": "i_sevgi_erturk",
+      "stu_id": "i_baris_cem_onal",
+      "name": "Biyoloji",
+      "faculty": "Fen Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Biyoloji",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Biyoloji",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "CEV",
+      "head_id": "a_aysel_caglan_gunal",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_emine_kocamemik",
+      "name": "Çevre Bilimleri",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Çevre Bilimleri",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Çevre Bilimleri",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "EEM",
+      "head_id": "a_firat_hardalac",
+      "sec_id": "i_nurgul_kose",
+      "stu_id": "i_baris_cem_onal",
+      "name": "Elektrik-Elektronik Mühendisliği (Müh. Fak.)",
+      "faculty": "Mühendislik Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "type": "dr",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "EET",
+      "head_id": "a_nihat_ozturk",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_esengul_bosnak",
+      "name": "Elektrik-Elektronik Mühendisliği (Tek. Fak.)",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Elektrik-Elektronik Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "EMM",
+      "head_id": "a_gul_didem_batur_sir",
+      "sec_id": "i_nursel_kucuk",
+      "stu_id": "i_figen_asal",
+      "name": "Endüstri Mühendisliği",
+      "faculty": "Mühendislik Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Endüstri Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Endüstri Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Mühendislik ve Teknoloji Yönetimi",
+          "type": "tz",
+          "language": "tr",
+          "edu_model": "ikinci",
+          "code": "MTY"
+        }
+      ]
+    },
+    {
+      "id": "ESM",
+      "head_id": "a_tayfun_menlik",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_asli_gultekin",
+      "name": "Enerji Sistemleri Mühendisliği",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Enerji Sistemleri Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Enerji Sistemleri Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Enerji Sistemleri Mühendisliği",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "ETM",
+      "head_id": "a_ismail_sahin",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_duygu_yurekli",
+      "name": "Endüstriyel Tasarım Mühendisliği",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Endüstriyel Tasarım Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Endüstriyel Tasarım Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "EUT",
+      "head_id": "a_dilek_akbulut",
+      "sec_id": "i_gulsah_yilmaz",
+      "stu_id": "i_dogan_kara",
+      "name": "Endüstriyel Tasarım",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Endüstriyel Tasarım",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "FİZ",
+      "head_id": "a_tarik_asar",
+      "sec_id": "i_sevgi_erturk",
+      "stu_id": "i_esengul_bosnak",
+      "name": "Fizik",
+      "faculty": "Fen Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Fizik",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Fizik",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "FOT",
+      "head_id": "a_suleyman_ozcelik",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_esengul_bosnak",
+      "name": "Fotonik Bilimi ve Mühendisliği",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Fotonik Bilimi ve Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Fotonik Bilimi ve Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "İLT",
+      "head_id": "a_sema_bilge_ocak",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_esengul_bosnak",
+      "name": "İleri Teknolojiler",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "İleri Teknolojiler",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "İleri Teknolojiler",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "İMM",
+      "head_id": "a_hakan_dilipak",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_duygu_yurekli",
+      "name": "İmalat Mühendisliği",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "İmalat Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "İNM",
+      "head_id": "a_kerem_tastan",
+      "sec_id": "i_esen_aydin",
+      "stu_id": "i_figen_asal",
+      "name": "İnşaat Mühendisliği (Müh. Fak.)",
+      "faculty": "Mühendislik Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "İnşaat Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "İnşaat Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "İNT",
+      "head_id": "a_salih_yazicioglu",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_emine_kocamemik",
+      "name": "İnşaat Mühendisliği (Tek. Fak.)",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "İnşaat Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "İST",
+      "head_id": "a_mehmet_akif_bakir",
+      "sec_id": "i_sevgi_erturk",
+      "stu_id": "i_esengul_bosnak",
+      "name": "İstatistik",
+      "faculty": "Fen Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "İstatistik",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "İstatistik",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Veri Bilimi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün",
+          "code": "VBL"
+        }
+      ]
+    },
+    {
+      "id": "KAZ",
+      "head_id": "a_sedat_surdem",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_yildiz_koyuncu",
+      "name": "Kazaların Çevresel ve Teknik Araştırması",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Kazaların Çevresel ve Teknik Araştırması",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Kazaların Çevresel ve Teknik Araştırması",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "KİM",
+      "head_id": "a_halit_arslan",
+      "sec_id": "i_sevgi_erturk",
+      "stu_id": "i_yildiz_koyuncu",
+      "name": "Kimya",
+      "faculty": "Fen Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Kimya",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Kimya",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Kimya",
+          "type": "dr",
+          "language": "en",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Kimya",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "KMM",
+      "head_id": "a_murat_bilen",
+      "sec_id": "i_gulsah_dogan",
+      "stu_id": "i_yildiz_koyuncu",
+      "name": "Kimya Mühendisliği",
+      "faculty": "Mühendislik Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Kimya Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Kimya Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Proses Güvenliği",
+          "type": "tz",
+          "language": "tr",
+          "edu_model": "orgün",
+          "code": "PSG"
+        }
+      ]
+    },
+    {
+      "id": "MAK",
+      "head_id": "a_abuzer_kadir_ozsunar",
+      "sec_id": "i_songul_ozturk",
+      "stu_id": "i_zulfinaz_yuksel_boga",
+      "name": "Makina Mühendisliği",
+      "faculty": "Mühendislik Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Makina Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Makina Mühendisliği",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Makina Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Makina Mühendisliği",
+          "type": "dr",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "MAT",
+      "head_id": "a_arap_duran_turkoglu",
+      "sec_id": "i_sevgi_erturk",
+      "stu_id": "i_dogan_kara",
+      "name": "Matematik",
+      "faculty": "Fen Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Matematik",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Matematik",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "MBT",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_baris_cem_onal",
+      "head_id": "a_sedat_surdem",
+      "name": "Mineraller ve Bor Teknolojisi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Mineraller ve Bor Teknolojisi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "MET",
+      "head_id": "a_bulent_bostan",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_dogan_kara",
+      "name": "Metalurji ve Malzeme Mühendisliği",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Metalurji ve Malzeme Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "MİM",
+      "sec_id": "i_murat_sahin",
+      "stu_id": "i_emine_kocamemik",
+      "head_id": "a_idil_aycam",
+      "name": "Mimarlık",
+      "faculty": "Mimarlık Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Mimarlık",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Mimarlık",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Mimarlık",
+          "type": "dr",
+          "language": "en",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Mimarlık",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "NUB",
+      "sec_id": "i_didem_balaban",
+      "stu_id": "i_asli_gultekin",
+      "head_id": "a_adem_acir",
+      "name": "Nükleer Bilimler",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Nükleer Bilimler",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Nükleer Bilimler",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "OTO",
+      "head_id": "a_hamit_solmaz",
+      "sec_id": "i_ozcan_eryilmaz",
+      "stu_id": "i_figen_asal",
+      "name": "Otomotiv Mühendisliği",
+      "faculty": "Teknoloji Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Otomotiv Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "ŞBP",
+      "head_id": "a_ebru_vesile_ocalir",
+      "sec_id": "i_serife_omur",
+      "stu_id": "i_asli_gultekin",
+      "name": "Şehir ve Bölge Planlama",
+      "faculty": "Mimarlık Fakültesi",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Planlamada Coğrafi Bilgi Sistemleri",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün",
+          "code": "CBS"
+        },
+        {
+          "name": "Şehir ve Bölge Planlama",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Şehir ve Bölge Planlama",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Şehir ve Bölge Planlama",
+          "type": "ty",
+          "language": "en",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Şehir ve Bölge Planlama",
+          "type": "dr",
+          "language": "en",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "TRF",
+      "head_id": "a_kursat_yildiz",
+      "sec_id": "i_derya_yucel",
+      "stu_id": "i_figen_asal",
+      "name": "Trafik Planlaması ve Uygulaması",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "aktif",
+      "programs": [
+        {
+          "name": "Trafik Planlaması ve Uygulaması",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Trafik Planlaması ve Uygulaması",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ]
+    },
+    {
+      "id": "ee_tef",
+      "head_id": "a_nihat_ozturk",
+      "sec_id": null,
+      "stu_id": "i_esengul_bosnak",
+      "name": "Elektrik Eğitimi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Elektrik Eğitimi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Elektrik Eğitimi",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "EET",
+      "parent_dept_name": "Elektrik-Elektronik Mühendisliği (Tek. Fak.)"
+    },
+    {
+      "id": "ete_tef",
+      "head_id": "a_suleyman_tekeli",
+      "sec_id": null,
+      "stu_id": "i_dogan_kara",
+      "name": "Endüstriyel Teknoloji Eğitimi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Endüstriyel Teknoloji Eğitimi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "IMM",
+      "parent_dept_name": "İmalat Mühendisliği"
+    },
+    {
+      "id": "ha_fbe",
+      "head_id": "a_talip_kellegoz",
+      "sec_id": null,
+      "stu_id": "i_emine_kocamemik",
+      "name": "Harekat Araştırması",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Harekat Araştırması",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "EMM",
+      "parent_dept_name": "Endüstri Mühendisliği"
+    },
+    {
+      "id": "me_tef",
+      "head_id": "a_hakan_dilipak",
+      "sec_id": null,
+      "stu_id": "i_duygu_yurekli",
+      "name": "Makine Eğitimi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Makine Eğitimi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Makine Eğitimi",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "IMM",
+      "parent_dept_name": "İmalat Mühendisliği"
+    },
+    {
+      "id": "metal_tef",
+      "head_id": "a_bulent_bostan",
+      "sec_id": null,
+      "stu_id": "i_dogan_kara",
+      "name": "Metal Eğitimi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Metal Eğitimi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Metal Eğitimi",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "MET",
+      "parent_dept_name": "Metalurji ve Malzeme Mühendisliği"
+    },
+    {
+      "id": "mde_tef",
+      "head_id": "a_hamza_cinar",
+      "sec_id": null,
+      "stu_id": "i_asli_gultekin",
+      "name": "Mobilya ve Dekorasyon Eğitimi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Mobilya ve Dekorasyon Eğitimi",
+          "type": "tz",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "AEM",
+      "parent_dept_name": "Ağaç İşleri Endüstri Mühendisliği"
+    },
+    {
+      "id": "ssm_fbe",
+      "head_id": "a_abuzer_kadir_ozsunar",
+      "sec_id": null,
+      "stu_id": "i_zulfinaz_yuksel_boga",
+      "name": "Silah Sistemleri Mühendisliği",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Silah Sistemleri Mühendisliği",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Silah Sistemleri Mühendisliği",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "MAK",
+      "parent_dept_name": "Makina Mühendisliği"
+    },
+    {
+      "id": "tly_fbe",
+      "head_id": "a_selcuk_kursat_isleyen",
+      "sec_id": null,
+      "stu_id": "i_figen_asal",
+      "name": "Tedarik ve Lojistik Yönetimi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Tedarik ve Lojistik Yönetimi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        },
+        {
+          "name": "Tedarik ve Lojistik Yönetimi",
+          "type": "dr",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "EMM",
+      "parent_dept_name": "Endüstri Mühendisliği"
+    },
+    {
+      "id": "ye_tef",
+      "head_id": "a_salih_yazicioglu",
+      "sec_id": null,
+      "stu_id": "i_duygu_yurekli",
+      "name": "Yapı Eğitimi",
+      "faculty": "Fen Bilimleri Enstitüsü",
+      "status": "pasif",
+      "programs": [
+        {
+          "name": "Yapı Eğitimi",
+          "type": "ty",
+          "language": "tr",
+          "edu_model": "orgün"
+        }
+      ],
+      "parent_dept_id": "INT",
+      "parent_dept_name": "İnşaat Mühendisliği (Tek. Fak.)"
+    }
+  ],
+  "management": {
+    "director_id": "a_orhan_kaplan",
+    "vice_director_ids": [
+      "a_berat_cinar_acar",
+      "a_ihsan_kanbaz"
+    ],
+    "secretary_id": "i_hulya_yahsi",
+    "executive_secretary_id": "i_didem_balaban"
+  },
+  "administrative_units": [
+    {
+      "id": "yok_tez",
+      "name": "YÖK ve Tez İşlemleri",
+      "person_ids": [
+        "i_kudret_ekici"
+      ]
+    },
+    {
+      "id": "bilisim_yazilim",
+      "name": "Bilişim ve Yazılım Geliştirme",
+      "person_ids": [
+        "i_gokce_cihan_cetinkaya"
+      ]
+    },
+    {
+      "id": "yonetim_kurulu_yazismalari",
+      "name": "Yönetim Kurulu Yazışmaları",
+      "person_ids": [
+        "i_seyda_gulizar_karayel",
+        "i_zeyno_gazioglu"
+      ]
+    },
+    {
+      "id": "satin_alma_haberlesme",
+      "name": "Satın Alma ve Haberleşme",
+      "person_ids": [
+        "i_erkan_yazir",
+        "i_adem_ozen"
+      ]
+    },
+    {
+      "id": "personel_muhasebe",
+      "name": "Personel Hizmetleri ve Muhasebe",
+      "person_ids": [
+        "i_kezban_alkul",
+        "i_nursen_zengin"
+      ]
+    }
+  ]
+}
