@@ -2,7 +2,19 @@
   "meta": {
     "schema": "fbe_core_v3",
     "version": "3.0.1",
-    "updated_at": "2026-10-08"
+    "updated_at": "2026-10-08",
+    "changelog": [
+      {
+        "version": "3.0.0",
+        "date": "2026-10-08",
+        "note": "Final core data model published."
+      },
+      {
+        "version": "3.0.1",
+        "date": "2026-10-08",
+        "note": "Gender fields completed; administrative personnel records and contact data updated."
+      }
+    ]
   },
   "titles": [
     {
